@@ -1,4 +1,4 @@
-# 💗🦋 Shuodi Yin's GitHub Profile
+# 💗🦋 Shuodi Yin's Profile
 
 ![Welcome](https://img.shields.io/badge/Welcome-👋-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3-blue)
