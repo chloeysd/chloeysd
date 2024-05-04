@@ -9,11 +9,10 @@ Hi there! I'm Shuodi Yin, a passionate **Data Analyst** and **NLP Enthusiast**. 
 
 ## 🚀 Skills
 
-- **Programming Languages:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **NLP:** NLTK, SpaCy, GPT-3, Transformer models
+- **Programming Languages:** Python
+- **Data Analysis:** Pandas, NumPy, Scikit-learn
 - **Machine Learning:** TensorFlow, PyTorch
-- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Visualization:** Matplotlib, Seaborn
 
 ## 📚 Projects
 
@@ -31,8 +30,5 @@ A Generative Adversarial Network (GAN) model for generating realistic images. Th
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Portfolio](https://your-personal-website.com)
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything interesting. 😊
